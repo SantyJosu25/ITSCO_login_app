@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017926477642",
+    "project_id": "login-app-itsco",
+    "storage_bucket": "login-app-itsco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017926477642:android:cbe6606248a5f3c68e83b3",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQyv7_3OMwavlVbjFnqilEX_JMy9GY60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
